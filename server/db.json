@@ -14,6 +14,11 @@
       "email": "pedrin@gmail.com",
       "password": "$2a$10$5uWv89uoGNgIaGNKbK/x0OYTJwdSDm6Qb/qAPrbw9OT8KK53qR6hK",
       "id": 3
+    },
+    {
+      "email": "jose@gmail.com",
+      "password": "$2a$10$QCq2LZtmm6T5JSyoJ1FYGeVFYAY.MGQgnafA4kwDt9wrEfNVgqvm6",
+      "id": 4
     }
   ],
   "learnhttp": {
@@ -21,10 +26,66 @@
   },
   "journals": [
     {
-      "id": "27123aa0-9292-11ed-9f19-734e1e0c6963",
-      "content": "Terça feira, dia lindo",
-      "created_at": "2023-01-03 12:59:45.972544",
-      "updated_at": "2023-01-03 12:59:45.972544",
+      "id": "902265b0-9355-11ed-96f6-0d8cc6ec80fd",
+      "content": "Terça",
+      "created_at": "2023-01-03 12:10:38.929386",
+      "updated_at": "2023-01-03 12:10:38.929386",
+      "userId": 1
+    },
+    {
+      "id": "2a8b34b0-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Quarta feira do Pedrin",
+      "created_at": "2023-01-11 12:22:58.868554",
+      "updated_at": "2023-01-11 12:22:58.868554",
+      "userId": 3
+    },
+    {
+      "id": "30587f10-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Quinta feira do Pedrinhoooo\n",
+      "created_at": "2023-01-05 12:22:58.868554",
+      "updated_at": "2023-01-13 13:03:21.910732",
+      "userId": 3
+    },
+    {
+      "id": "34750c30-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Sexta feira do Pedrinhooo",
+      "created_at": "2023-01-06 12:22:58.868554",
+      "updated_at": "2023-01-13 13:03:44.994074",
+      "userId": 3
+    },
+    {
+      "id": "38e0cac0-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Sabadeira do Pedrin",
+      "created_at": "2023-01-07 12:22:58.868554",
+      "updated_at": "2023-01-07 12:22:58.868554",
+      "userId": 3
+    },
+    {
+      "id": "40b9eab0-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Domingueira do Pedrin",
+      "created_at": "2023-01-08 12:22:58.868554",
+      "updated_at": "2023-01-08 12:22:58.868554",
+      "userId": 3
+    },
+    {
+      "id": "45608f60-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Segundeira do Pedrin",
+      "created_at": "2023-01-09 12:22:58.868554",
+      "updated_at": "2023-01-09 12:22:58.868554",
+      "userId": 3
+    },
+    {
+      "id": "49c68190-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Terceira do Pedrin",
+      "created_at": "2023-01-10 12:22:58.868554",
+      "updated_at": "2023-01-10 12:22:58.868554",
+      "userId": 3
+    },
+    {
+      "id": "568d3a40-9356-11ed-96f6-0d8cc6ec80fd",
+      "content": "Diante de diante de diante",
+      "created_at": "2023-01-10 12:24:12.730409",
+      "updated_at": "2023-01-10 12:24:12.730409",
       "userId": 1
     }
   ]
