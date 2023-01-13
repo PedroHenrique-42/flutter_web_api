@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "email": "pedrohenrique@gmail.com",
+      "password": "$2a$10$JD8QRN3Nxk6wJwDwfhVBn.zX174HPS4rgE9yb0YnjqtgnUs7uKiPK",
+      "id": 1
+    },
+    {
+      "email": "enzobariani@gmail.com",
+      "password": "$2a$10$KV37gVGxgN9EV1h.ulOP1ePUUyQ5/BJ7NhErod2tb.tALYS6ZzrsC",
+      "id": 2
+    },
+    {
+      "email": "pedrin@gmail.com",
+      "password": "$2a$10$5uWv89uoGNgIaGNKbK/x0OYTJwdSDm6Qb/qAPrbw9OT8KK53qR6hK",
+      "id": 3
+    }
+  ],
+  "learnhttp": {
+    "content": "Olá Pedro"
+  },
+  "journals": [
+    {
+      "id": "27123aa0-9292-11ed-9f19-734e1e0c6963",
+      "content": "Terça feira, dia lindo",
+      "created_at": "2023-01-03 12:59:45.972544",
+      "updated_at": "2023-01-03 12:59:45.972544",
+      "userId": 1
+    }
+  ]
+}
